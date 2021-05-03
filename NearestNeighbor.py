@@ -1,4 +1,4 @@
-         """ Nearest Neighbor For Classification """
+""" Nearest Neighbor For Classification """
 
 import numpy as np
 
