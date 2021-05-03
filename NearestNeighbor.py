@@ -44,5 +44,5 @@ class NearestNeighbor:
             lowest_index = np.argmin(values)
             y_predict[i] = self.y_train[lowest_index]
 
-        # print the result
+        # return result
         return y_predict
